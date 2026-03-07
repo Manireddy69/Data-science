@@ -1,0 +1,14 @@
+# Build artifacts (from earlier experiments)
+_build/
+
+# Generated static site output (rebuildable)
+site/index.html
+site/lessons/
+
+# Notebook noise
+.ipynb_checkpoints/
+
+# OS/editor
+Thumbs.db
+Desktop.ini
+.DS_Store
